@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankithbalda" alt="ankithbalda" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **applications, programming in C and Python**
 
-- 📫 How to reach me **ankithbalda@gmail.com**
+- 📫 How to reach me **ankithbalda.wk@gmail.com**
 
 - ⚡ Fun fact **I think I am Ironman**
 
